@@ -36,8 +36,6 @@ This project solves that by building a single interactive dashboard that lets an
 Excel/CSV → Power Query → Data Transformation → DAX Measures → Power BI Dashboard → Business Insights
 ```
 
----
-
 ## * Dataset
 
 The dataset (`Orders` table) includes fields such as:
