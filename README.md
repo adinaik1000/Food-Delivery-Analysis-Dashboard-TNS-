@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard that analyzes food delivery operations — orders, revenue, delivery performance, food categories, customer ratings, and restaurant performance — turning raw, hard-to-read data into clear, actionable insights.
 
----
 
 ## 📌 Problem Statement
 
@@ -10,7 +9,6 @@ Food delivery companies receive thousands of orders every day. Manually tracking
 
 This project solves that by building a single interactive dashboard that lets anyone — without digging through spreadsheets — instantly understand what's happening across the business.
 
----
 
 ## 🎯 Objectives
 
@@ -31,7 +29,6 @@ This project solves that by building a single interactive dashboard that lets an
 | **Power Query** | Data cleaning & transformation |
 | **DAX** | Custom measures & calculations |
 
----
 
 ## 📊 Data Flow
 
@@ -58,7 +55,7 @@ The dataset (`Orders` table) includes fields such as:
 
 > Update this section with your actual dataset source/link (e.g., Kaggle, custom-generated data, etc.)
 
----
+
 
 ## 📈 Dashboard Highlights
 
@@ -66,9 +63,8 @@ The dataset (`Orders` table) includes fields such as:
 - **Delivery Performance Analysis** — Delivery time by city, order status breakdown, delivery bottlenecks
 - **Restaurant Analysis** — Top restaurants by revenue, rating comparisons, performance benchmarking
 
-*(Add dashboard screenshots here once exported from Power BI — see [Screenshots](#-screenshots) below)*
 
----
+
 
 ## 🖼️ Screenshots
 
