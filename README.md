@@ -55,8 +55,6 @@ The dataset (`Orders` table) includes fields such as:
 
 > Update this section with your actual dataset source/link (e.g., Kaggle, custom-generated data, etc.)
 
-
-
 ## * Dashboard Highlights
 
 - **Overview Dashboard** — Total orders, total revenue, average rating at a glance
@@ -64,14 +62,3 @@ The dataset (`Orders` table) includes fields such as:
 - **Restaurant Analysis** — Top restaurants by revenue, rating comparisons, performance benchmarking
 
 
-
-
-## * Screenshots
-
-> Replace these placeholders with actual exported images from your Power BI dashboard.
-
-```
-/screenshots/overview-dashboard.png
-/screenshots/delivery-performance.png
-/screenshots/restaurant-analysis.png
-```
